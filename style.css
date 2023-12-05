@@ -1,0 +1,51 @@
+html
+{
+    font-size: 30px;
+}
+
+#div1
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+#div2
+{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    margin-left: -8px;
+}
+
+span{
+    display: block;
+}
+
+/* div{ 
+    display: inline;
+}
+*/
+div
+{
+    display: inline-block;
+}
+
+
+/* #span1 
+{
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+  
+}
+
+#span2{
+    
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: green;
+}
+*/
+
